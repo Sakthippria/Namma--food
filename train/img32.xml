@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img32.jpg</filename>
+	<path>C:\tensorflow\models\research\object_detection\images\train\img32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jigirthanda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>19</ymin>
+			<xmax>152</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
